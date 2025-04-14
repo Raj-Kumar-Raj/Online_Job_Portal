@@ -35,7 +35,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between mx-auto max-w-7xl h-16">
         <div>
           <h1 className="text-2xl font-bold">
-            <Link to="http://localhost:5173/" className="hover:underline">
+            <Link to="https://online-job-portal-tan.vercel.app/" className="hover:underline">
               Job<span className="text-[#F83002]">Portal</span>
             </Link>
           </h1>
