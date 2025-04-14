@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 const corsOptions = {
-  origin: "https://online-job-portal-tan.vercel.app/",
+  origin: "https://online-job-portal-tan.vercel.app",
   credentials: true,
 };
 
